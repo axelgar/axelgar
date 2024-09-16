@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi there! 👋
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![JavaScript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&color=F7DF1E)
+![Typescript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&color=3178C6)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
 ![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
 
