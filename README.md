@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on many things but mainly on [StudioApp](https://studioapp.co/)
+- 🌱 I’m currently learning new desing/code patterns
+- 👯 I’m looking to collaborate on building anything cool
+
 <!--
 **axelgar/axelgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
