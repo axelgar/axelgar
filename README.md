@@ -4,7 +4,6 @@
 ![Typescript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&color=3178C6)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
 
 - 🔭 I’m currently working on many things but mainly on [StudioApp](https://studioapp.co/)
 - 🌱 I’m currently learning new ways for design patterns
